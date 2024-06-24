@@ -1,4 +1,4 @@
-## I got and ACCURACY OF 77 % with my model with a Rank of 837 out of 17,115 active participants.
+## I got an ACCURACY of 77% with my model and got a Rank of 837 out of 17,115 active participants on Kaggle.
 
 ## Titanic: Machine Learning from Disaster
 
