@@ -40,11 +40,11 @@ This repository contains my solutions and explorations for the [Titanic: Machine
 
 - **Machine Learning Models:**
   - Logistic Regression
-  - Decision Trees
-  - Random Forests
-  - Gradient Boosting
+  - Decision Trees Classifeir
+  - Random Forests Classifier
+  - Gradient Boosting Classifier
   - Support Vector Machines
-  - Neural Networks
+
 
 ### Results
 
